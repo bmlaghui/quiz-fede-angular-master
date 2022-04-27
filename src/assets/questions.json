@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "questionText": "OSPF est de type ?",
+      "options": [
+        {
+          "text": "«Sans lien direct »."
+        },
+        {
+          "text": "« à état de liens ».",
+          "correct": true
+        },
+        {
+          "text": "«à état de liens courts»."
+        },
+        {
+          "text": "«à état de liens prioritaires»"
+        }
+      ]
+    },
+    {
+      "questionText": "Pourquoi le volume de datas est important en « Big data »?",
+      "options": [
+        {
+          "text": "Car elles sont brutes d’origines.",
+          "correct": true
+        },
+        {
+          "text": "Car elles sont triées."
+        },
+        {
+          "text": "Car elles sont dupliquées."
+        },
+        {
+          "text": "Car elles viennent de différentes bases."
+        }
+      ]
+    },
+    {
+      "questionText": "Un logiciel malveillant capable de modifier, à l'insu d'un utilisateur, certaines options de son navigateur web est un :",
+      "options": [
+        {
+          "text": "Hijacker. ",
+          "correct": true
+        },
+        {
+          "text": "Backdoor."
+        },
+        {
+          "text": "Splitter."
+        },
+        {
+          "text": "Cracker."
+        }
+      ]
+    }
+  ]
+}

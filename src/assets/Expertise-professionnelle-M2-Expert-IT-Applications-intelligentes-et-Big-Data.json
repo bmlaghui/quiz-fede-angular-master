@@ -1,0 +1,159 @@
+{
+  "questions": [{
+    "questionText": "Le social  engineering ?",
+    "options": [{
+      "text": "Est une attaque à travers les réseaux sociaux.",
+
+
+      "correct": true
+    },
+      {
+        "text": "Est une attaque à travers les mails."
+      },
+      {
+        "text": "Est une attaque à travers les FTP."
+      },
+      {
+        "text": "Est une attaque via une personne."
+      }
+    ]
+  },
+    {
+      "questionText": "Lequel n’est pas un objectif de la sécurité informatique ?",
+      "options": [{
+        "text": "L'intégrité."
+      },
+        {
+          "text": "La confidentialité."
+        },
+        {
+          "text": "La disponibilité."
+        },
+        {
+          "text": "La certification.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "Une attaque utilisant les faiblesses d’une base de données est : ?",
+      "options": [{
+        "text": "Une injection SQL.",
+        "correct": true
+      },
+        {
+          "text": "Une attaque Merise."
+        },
+        {
+          "text": "Une attaque  DNS."
+        },
+        {
+          "text": "Une attaque  XSS."
+        }
+      ]
+    },
+    {
+      "questionText": "Une attaque DDOS veut dire ?",
+      "options": [{
+        "text": "Distributed Denial of Service attack.",
+        "correct": true
+      },
+        {
+          "text": "Distributed Deny of Service attack."
+        },
+        {
+          "text": "Distributed Denial of System attack."
+        },
+        {
+          "text": "Database Denial of Service attack."
+        }
+      ]
+    },
+    {
+      "questionText": "Pour lutter contre des intrusions WIFI on utilise ?",
+      "options": [{
+        "text": "Le PAP."
+      },
+        {
+          "text": "Le PAW."
+        },
+        {
+          "text": "Le WEEP."
+        },
+        {
+          "text": "Le WAP.",
+          "correct": true
+
+        }
+      ]
+    },
+    {
+      "questionText": "WEP signifie ?",
+      "options": [{
+        "text": "Wired Equivalent Private.",
+        "correct": true
+      },
+        {
+          "text": "Wired Equivalent Privacy."
+        },
+        {
+          "text": "WIFI Equivalent Privacy."
+        },
+        {
+          "text": "WIFI Equivalent Private."
+        }
+      ]
+    },
+    {
+      "questionText": "CSRF est une attaque qui utilise le protocole ?",
+      "options": [{
+        "text": "HTTP.",
+        "correct": true
+      },
+        {
+          "text": "FTP."
+        },
+        {
+          "text": "IP."
+        },
+        {
+          "text": "SMTP."
+        }
+      ]
+    },
+    {
+      "questionText": "Un logiciel malveillant capable de modifier, à l'insu d'un utilisateur, certaines options de son navigateur web est un ?",
+      "options": [{
+        "text": "Hijacker.",
+        "correct": true
+      },
+        {
+          "text": "Backdoor."
+        },
+        {
+          "text": "Splitter."
+        },
+        {
+          "text": "Cracker."
+        }
+      ]
+    },
+    {
+      "questionText": "L’attaque “Man in the middle” n’a pas pour but ?",
+      "options": [{
+        "text": "L’ARP Spoofing."
+      },
+        {
+          "text": "Le DNS Poisoning."
+        },
+        {
+          "text": "Le Deni de Service."
+        },
+        {
+          "text": "Le CSRF.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
